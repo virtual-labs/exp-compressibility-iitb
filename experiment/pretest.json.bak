@@ -1,0 +1,20 @@
+[
+    {
+        "question": "Bulk modulus is",
+        "qid": 1,
+        "option_a": "Product of Volumetric strain and increase of pressure",
+        "option_b": "Product of Increase of pressure and volumetric strain",
+        "option_c": "Ratio of Volumetric strain to the Increase of pressure",
+        "option_d": "Ratio of Increase of pressure to the volumetric strain",
+        "correct_option": "d"
+    },
+    {
+        "question": "Compressibility is",
+        "qid": 2,
+        "option_a": "Bulk Modulus",
+        "option_b": "1/Bulk modulus",
+        "option_c": "-dV/V",
+        "option_d": "-dp/v",
+        "correct_option": "b"
+    }
+]
