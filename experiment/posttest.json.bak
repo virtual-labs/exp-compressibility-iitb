@@ -1,0 +1,21 @@
+[
+
+    {
+        "question": "If the increase in the pressure is 40 N/cm<sup>2</sup> and decrease in volume is by 20%. The bulk modulus will be",
+        "qid": 1,
+        "option_a": "2*10<sup>4</sup> N/m<sup>2</sup>",
+        "option_b": "0.5*10<sup>4</sup> N/m<sup>2</sup>",
+        "option_c": "2*10<sup>4</sup> N/cm<sup>2</sup>",
+        "option_d": "0.5*10<sup>4</sup> N/cm<sup>2</sup>",
+        "correct_option": "c"
+    },
+    {
+        "question": "If the bulk modulus is 10<sup>4</sup> N/m<sup>2</sup> the compressibility is",
+        "qid": 2,
+        "option_a": "10^-4 N/m^2",
+        "option_b": "10^-4 m^2/N",
+        "option_c": "10^4 N/m^2",
+        "option_d": "10^4 m^2/N",
+        "correct_option": "b"
+    }
+]
